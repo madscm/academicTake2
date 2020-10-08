@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Madison Cohen-McFarlane
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Systems and Computer Engineering, Carleton University
+  url: "https://carleton.ca/sce/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: []
 
 interests:
+- Remote Monitoring
+- Audio Signal Processing and Classification
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine and Deep Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Non-Speech related Vocal Sounds 
+    institution: Carleton University
+    year: Ongoing
+  - course: MASc in Biomedical Engineering 
+    institution: Carleton University
+    year: 2017
+  - course: BEng in Biomedical Engineering 
+    institution: University of Guelph
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,14 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: ''
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?user=-qaIxp8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: ''
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Madison Cohen-McFarlane received the B.Eng. degree in biomedical engineering from the University of Guelph, Guelph, ON, Canada, in 2015 and the M.A.Sc. degree in biomedical engineering from Carleton University, Ottawa, Canada in 2017. She is currently pursuing the Ph.D. degree in biomedical engineering at Carleton University, Ottawa, Canada, in the systems and computer engineering department.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She is developing a system to monitor and track non-speech related vocal sound. The system would be applicable to a variety of respiratory health conditions, including COVID-19, that are prevalent in the older adult population, with the goal of improving quality of life and allowing individuals to safely stay in their homes.
